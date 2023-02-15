@@ -19,6 +19,6 @@ message2="{},{}.Welcome!".format(greeting,name)
 print(message2)
 
 message3 =  f'{greeting}, {name.upper()}. Welcome!'
-print(message3)
+print(message3 * 3)
 
-print(help(str))
+#print(help(str))
