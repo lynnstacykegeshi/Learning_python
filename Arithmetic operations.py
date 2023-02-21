@@ -9,9 +9,11 @@ print(10%3) #returns remainder
 #Augmented assignmnent operator
 x=10
 print(x+3)
+
 #Augmented assignment operator rewrites above code in shorter form
 x += 6
 print(x)
+
 y=7
 y -=27
 print(y)
