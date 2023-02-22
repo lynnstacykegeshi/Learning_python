@@ -27,11 +27,11 @@ for x in range(4):
     for y in range(3):
         print(f"({x},{y})")
 
+#Create a rectangle
 rows= int(input("Number of rows " ))
 columns = int(input("Number of columns "))
 symbol = input("Enter a symbol to use ")
 
-#Create a rectangle
 for x in range(rows):
     for y in range(columns):
         print(symbol, end="")
