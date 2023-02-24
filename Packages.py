@@ -9,3 +9,4 @@ calc_shipping()
 #to import entire model
 from ecommerce import shipping
 shipping.calc_shipping()
+calc_shipping()
